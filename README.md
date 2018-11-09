@@ -6,4 +6,7 @@
 4. Run resnet50.ipynb to test resnet accuracy
 
 ## Reference
-http://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.htm
+http://calebrob.com/ml/imagenet/ilsvrc2012/2018/10/22/imagenet-benchmarking.html
+
+## Dataset Download
+http://www.image-net.org/challenges/LSVRC/2012/nonpub-downloads
